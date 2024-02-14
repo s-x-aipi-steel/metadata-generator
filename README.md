@@ -7,7 +7,7 @@ License: MIT. Please see [LICENSE.txt](LICENSE.txt)!
 
 ---
 
-![Project logo](logo-sxaipi-272px.jpg)
+![EU flag and project logo](logos.png)
 
 This work has been supported by the project "self-X Artificial Intelligence for European Process Industry digital transformation" (s-X-AIPI), which has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement No. 101058715.
 
